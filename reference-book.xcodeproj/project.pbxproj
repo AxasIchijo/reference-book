@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		22CF8FB427D7693300D155E2 /* TodoList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22CF8FB327D7693300D155E2 /* TodoList.swift */; };
 		22E3889727B3D9B400672C60 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E3889627B3D9B400672C60 /* AppDelegate.swift */; };
 		22E3889927B3D9B400672C60 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E3889827B3D9B400672C60 /* SceneDelegate.swift */; };
 		22E3889B27B3D9B400672C60 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E3889A27B3D9B400672C60 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		22CF8FB327D7693300D155E2 /* TodoList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoList.swift; sourceTree = "<group>"; };
 		22E3889327B3D9B400672C60 /* reference-book.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "reference-book.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		22E3889627B3D9B400672C60 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		22E3889827B3D9B400672C60 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				22E3889627B3D9B400672C60 /* AppDelegate.swift */,
 				22E3889827B3D9B400672C60 /* SceneDelegate.swift */,
 				22E3889A27B3D9B400672C60 /* ViewController.swift */,
+				22CF8FB327D7693300D155E2 /* TodoList.swift */,
 				22E3889C27B3D9B400672C60 /* Main.storyboard */,
 				22E3889F27B3D9BA00672C60 /* Assets.xcassets */,
 				22E388A127B3D9BA00672C60 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				22E3889B27B3D9B400672C60 /* ViewController.swift in Sources */,
 				22E3889727B3D9B400672C60 /* AppDelegate.swift in Sources */,
 				22E3889927B3D9B400672C60 /* SceneDelegate.swift in Sources */,
+				22CF8FB427D7693300D155E2 /* TodoList.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
